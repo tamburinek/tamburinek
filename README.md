@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @tamburinek
+- 👀 Currently student #CTU
+- 🌱 I’m currently learning Kotlin for mobile apps building
+- 🏃‍♂️Already know Java, C++, Python, JS, PHP and HTML with CSS
+- 📫 mail: norbart@fel.cvut.cz
+- 📫 ig: tamburinek
